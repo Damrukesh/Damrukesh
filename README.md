@@ -1,7 +1,7 @@
 
 # Hi, I am Damrukesh !
 
-I'm an AI and machine learning enthusiast currently learning to build LLMs and agents . I enjoy working with Machine learning models, Python (Flask, APIs) and Java. 
+I'm an AI and machine learning enthusiast currently learning to build agents and AI applications . I enjoy working with Machine learning models and Python (Flask, APIs). 
 
 
 
