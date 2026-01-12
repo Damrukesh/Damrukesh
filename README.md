@@ -1,7 +1,7 @@
 
 # Hi, I am Damrukesh !
 
-I'm a CS undergrad building a foundation in AI and machine learning . Currently learning learning about agents and transformers  
+I'm a CS undergrad building a foundation in AI and machine learning . Currenlty exploring various data science projects.
 
 
 
