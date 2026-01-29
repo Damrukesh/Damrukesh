@@ -8,30 +8,22 @@ Looking forward for oppurtunities.
 
 <div align="center">
 
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=damrukesh&show_icons=true&locale=en&layout=compact"
-       alt="damrukesh" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=damrukesh&layout=compact&theme=dark" />
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=damrukesh&show_icons=true&locale=en"
-       alt="damrukesh" />
-</p>
+<br/><br/>
 
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=damrukesh"
-       alt="damrukesh" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damrukesh&show_icons=true&theme=dark" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=damrukesh&theme=dark" />
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=damrukesh&label=Profile%20views&color=0e75b6&style=flat"
-       alt="damrukesh" />
+  <img src="https://komarev.com/ghpvc/?username=damrukesh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 
 
 
