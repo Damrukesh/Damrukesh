@@ -4,7 +4,8 @@
 I'm a final year CS student having a strong passion towards data science , machine learning and AI engineering. Currently skilling up in Backend development in python , Machine learning models and building small enterprises using LLMs. 
 Looking forward for oppurtunities.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damrukesh&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damrukesh&show_icons=true)
+
 
 
 
