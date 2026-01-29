@@ -4,7 +4,35 @@
 I'm a final year CS student having a strong passion towards data science , machine learning and AI engineering. Currently skilling up in Backend development in python , Machine learning models and building small enterprises using LLMs. 
 Looking forward for oppurtunities.
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damrukesh&show_icons=true)
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=damrukesh&show_icons=true&locale=en&layout=compact"
+       alt="damrukesh" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=damrukesh&show_icons=true&locale=en"
+       alt="damrukesh" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=damrukesh"
+       alt="damrukesh" />
+</p>
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=damrukesh&label=Profile%20views&color=0e75b6&style=flat"
+       alt="damrukesh" />
+</p>
+
 
 
 
