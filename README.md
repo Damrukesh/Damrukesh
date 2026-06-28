@@ -1,8 +1,8 @@
 
 # Hi, I am Damrukesh !
 
-I'm a final year CS student having a strong passion towards data science , machine learning and AI engineering. Currently skilling up in Backend development in python , Machine learning models and building small enterprises using LLMs. 
-Looking forward for oppurtunities.
+I'm a final year CS student having a strong passion towards data science , machine learning and AI engineering. Currently skilling up in Backend development in python , Machine learning models and building RAG applications. 
+Looking forward to any oppurtunities in the same
 
 
 
